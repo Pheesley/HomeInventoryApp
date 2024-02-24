@@ -1,0 +1,15 @@
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\bin\Debug\HomeInventoryAndLog.exe.config
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\bin\Debug\HomeInventoryAndLog.exe
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\bin\Debug\HomeInventoryAndLog.pdb
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\obj\Debug\HomeInventoryAndLog.csproj.AssemblyReference.cache
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\obj\Debug\HomeInventoryAndLog.Properties.Resources.resources
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\obj\Debug\HomeInventoryAndLog.csproj.GenerateResource.cache
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\obj\Debug\HomeInventoryAndLog.csproj.CoreCompileInputs.cache
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\obj\Debug\HomeInventoryAndLog.exe
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\obj\Debug\HomeInventoryAndLog.pdb
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\obj\Debug\HomeInventoryAndLog.Mainfrm.resources
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\obj\Debug\HomeInventoryAndLog.EditInventoryfrm.resources
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\bin\Debug\HomeInventoryAndLog.exe.manifest
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\bin\Debug\HomeInventoryAndLog.application
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\obj\Debug\HomeInventoryAndLog.exe.manifest
+C:\Users\corsi\source\repos\HomeInventoryAndLog\HomeInventoryAndLog\obj\Debug\HomeInventoryAndLog.application

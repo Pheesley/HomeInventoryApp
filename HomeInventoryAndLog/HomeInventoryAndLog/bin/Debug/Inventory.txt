@@ -1,0 +1,3 @@
+test object : 24
+Nutmeg : 1
+celery : 0
